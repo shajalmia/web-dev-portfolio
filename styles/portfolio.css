@@ -33,6 +33,11 @@
 .text-center{
     text-align: center;
 }
+.center{
+    margin: 40px auto;
+    display: flex;
+
+}
 
 .dark-2{
     color:#474747;
